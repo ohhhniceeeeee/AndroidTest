@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConstraintLayoutTest</string>
+    <string name="app_version">1.0.1beta</string>
+    <string name="name_hint">Name</string>
+    <string name="psd_hint">password</string>
+    <string name="button_msg">登录</string>
+    <string name="icon_msg">登录界面图标</string>
+</resources>
